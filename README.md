@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anupkewat
 - 🌱 I’m currently learning machine learning,computer vision,NLP,DNN
-- 📫 How to reach me :svsmar2@gmail.com
+- 📫 How to reach me :svsmart2@gmail.com
 
 <!---
 anupkewat/anupkewat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
