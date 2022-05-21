@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupkewat
-- 🌱 I’m currently learning machine learning,computer vision,NLP,DNN
+- 🌱 I’m currently learning machine learning and deep learning
 - 📫 How to reach me :anup.kewat@gmail.com
 
 <!---
