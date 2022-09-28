@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupkewat
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently learning django, data science , data structures
 - 📫 How to reach me :anup.kewat@gmail.com
 
 <!---
